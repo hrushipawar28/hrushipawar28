@@ -41,16 +41,7 @@ Welcome to my portfolio repository! I'm a passionate **Frontend Web Developer** 
 
 - [About Me](#about-me)
 - [Skills](#skills)
-- [Projects](#projects)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Technologies & Dependencies](#technologies--dependencies)
-- [Configuration](#configuration)
-- [Screenshots](#screenshots)
-- [Troubleshooting](#troubleshooting)
 - [Contact](#contact)
-- [License](#license)
 
 ---
 
@@ -72,15 +63,8 @@ I specialize in building clean, efficient, and accessible web interfaces with mo
 ## 🤝 Contact
 
 - 📧 Email: hrushipawar28@gmail.com
-- 💼 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/hrushi-pawar)
-- 🐙 GitHub: [github.com/your-username](https://github.com/Hrushi_Pawar)
-
----
-
-## 📄 License
-
-This portfolio and project code are licensed under the [MIT License](LICENSE).
+- 🔗 LinkedIn: [linkedin.com/in/hrushi-pawar](www.linkedin.com/in/hrushi-pawar)
+- 🐙 GitHub: [github.com/Hrushi_Pawar](https://github.com/Hrushi_Pawar)
 
 ---
 
