@@ -53,8 +53,8 @@ I specialize in building clean, efficient, and accessible web interfaces with mo
 
 ## 🛠️ Skills
 - 🏗️ HTML
-- ⚛️ React.js (Hooks, Context API, React Router)
-- 💅 CSS3, Styled Components
+- ⚛️ React.js 
+- 💅 CSS3
 - 🧠 JavaScript 
 - 🔧 Git, GitHub
 
