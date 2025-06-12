@@ -64,7 +64,7 @@ I specialize in building clean, efficient, and accessible web interfaces with mo
 
 - 📧 Email: hrushipawar28@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/hrushi-pawar](www.linkedin.com/in/hrushi-pawar)
-- 🐙 GitHub: [github.com/Hrushi_Pawar](https://github.com/Hrushi_Pawar)
+- 🐙 GitHub: [github.com/Hrushi_Pawar](https://github.com/hrushipawar28)
 
 ---
 
