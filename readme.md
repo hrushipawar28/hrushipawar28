@@ -61,16 +61,11 @@ I specialize in building clean, efficient, and accessible web interfaces with mo
 ---
 
 ## 🛠️ Skills
-
+- 🏗️ HTML
 - ⚛️ React.js (Hooks, Context API, React Router)
-- 💅 CSS3, Sass, Tailwind CSS, Styled Components
-- 🧠 JavaScript (ES6+), TypeScript (basic)
-- ⚙️ Webpack, Vite, Babel
-- 📦 State Management: Redux Toolkit, Zustand
-- 🧪 Testing: Jest, React Testing Library
-- 🌐 RESTful APIs, Axios, Fetch
-- 🔍 SEO, Performance Optimization
-- 🔧 Git, GitHub, CI/CD basics
+- 💅 CSS3, Styled Components
+- 🧠 JavaScript 
+- 🔧 Git, GitHub
 
 ---
 
